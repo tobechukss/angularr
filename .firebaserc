@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "asgard-6e253": {
+      "hosting": {
+        "angularr-app": [
+          "asgard-6e253"
+        ]
+      }
+    }
+  }
+}
